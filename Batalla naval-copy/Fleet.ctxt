@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fleet
+comment0.text=\r\n\ Conjunto\ de\ maquinas\ y\ los\ marineros\ que\ las\ manejan\r\n
+comment1.params=dLon\ dLat
+comment1.target=void\ advance(int,\ int)
+comment2.params=longitude\ latitude
+comment2.target=java.util.ArrayList\ willBeDestroyed(int,\ int)
+comment3.params=machine
+comment3.target=void\ addMachine(Machine)
+comment4.params=
+comment4.target=boolean\ canBeDestroyed()
+numComments=5
