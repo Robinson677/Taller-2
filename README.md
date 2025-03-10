@@ -1,2 +1,2 @@
 # Taller-2
-Robinson Steven y Sebastian Albarracin 
+Robinson Steven Nuñez y Sebastian Albarracin Silva
